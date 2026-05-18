@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="LifeSpecs">
+  <rect width="512" height="512" rx="112" fill="#23423a"/>
+  <path d="M128 235 256 132l128 103v142a27 27 0 0 1-27 27h-67v-93h-68v93h-67a27 27 0 0 1-27-27V235Z" fill="#f7f3ea"/>
+  <path d="M161 185h190l-25-42H186l-25 42Z" fill="#e7b94f"/>
+  <path d="M141 347h231a38 38 0 0 0 36-26l17-51H88l17 51a38 38 0 0 0 36 26Z" fill="#7fb1a3"/>
+  <circle cx="169" cy="366" r="28" fill="#172b27"/>
+  <circle cx="343" cy="366" r="28" fill="#172b27"/>
+</svg>
